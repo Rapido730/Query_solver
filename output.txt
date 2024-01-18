@@ -1,0 +1,21 @@
+Employees who has worked for 7 consecutive days : 
+1.  Name : "Sparks KeWWeMh"        Position : WFS000101
+2.  Name : "SiWgh JaspreeM"        Position : WFS000424
+3.  Name : "CEreira Jr JEse"        Position : WFS000456
+4.  Name : "GAeWdia JAaW CarXEs"        Position : WFS000473
+
+
+Employees who have less than 10 hours of time between shifts but greater than 1 hour :
+1.  Name : "CaMaXaWE CeghaW"        Position : WFS000153
+2.  Name : "Xee XaCar"        Position : WFS000200
+3.  Name : "De Xa Cerda IgWaciE"        Position : WFS000318
+4.  Name : "CEreira Jr JEse"        Position : WFS000456
+5.  Name : "DeXgadiXXE REdarMe ChrisMiaW S"        Position : WFS000523
+6.  Name : "HaCiXMEW DeaWMe DevEW"        Position : WFS000536
+7.  Name : "REdrigAez GraWdEW AWgeX"        Position : WFS000550
+
+
+Employees who has worked for more than 14 hours in a single shift : 
+1.  Name : "DeXgadiXXE REdarMe ChrisMiaW S"        Position : WFS000523
+
+
